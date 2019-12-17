@@ -14,7 +14,7 @@ for ($i=0; $i < ; $i++) {
 	# code...
 }
 
-if (condition) {
+if (condition) {//
 	
 	# code...
 }
@@ -22,3 +22,5 @@ if (condition) {
 //分支2
 
 //你好我的世界
+// 哈喽
+
