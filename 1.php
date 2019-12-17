@@ -13,3 +13,7 @@ switch (variable) {
 for ($i=0; $i < ; $i++) { 
 	# code...
 }
+
+if (condition) {
+	# code...
+}
