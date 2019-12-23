@@ -35,3 +35,16 @@ DD
 // m1对一个模块进行改动
 // m1`改动第二次
 // m1`改动第三次
+// member2 进行另外的模块开发
+
+switch (variable) {
+	case 'value':
+		# code...
+		break;
+	
+	default:
+		# code...
+		break;
+}
+
+// end
