@@ -31,3 +31,15 @@ DD
 // member 2 提交
 // 
 // 我是member3
+// 
+// member2 进行另外的模块开发
+
+switch (variable) {
+	case 'value':
+		# code...
+		break;
+	
+	default:
+		# code...
+		break;
+}
